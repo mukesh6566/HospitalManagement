@@ -15,9 +15,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import com.mentor.spring.model.User;
 import com.mentor.spring.service.UserService;
 
-/**
- * @author imssbora
- */
 @Controller
 public class UserController {
 
