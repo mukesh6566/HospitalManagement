@@ -27,7 +27,7 @@ public class UserController {
       model.addAttribute("user", new User());
       model.addAttribute("users", userService.list());
 
-      return "userForm";
+      return "login";
    }
 
    @PostMapping("/saveUser")

@@ -1,0 +1,9 @@
+com\mentor\spring\service\UserService.class
+com\mentor\spring\dao\UserDaoImp.class
+com\mentor\spring\dao\UserDao.class
+com\mentor\spring\config\WebConfig.class
+com\mentor\spring\config\AppConfig.class
+com\mentor\spring\config\MyWebAppInitializer.class
+com\mentor\spring\controller\UserController.class
+com\mentor\spring\model\User.class
+com\mentor\spring\service\UserServiceImp.class

@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:37:02 +0545] "GET / HTTP/1.1" 200 21957 http-bio-8083-exec-1 2290
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:37:02 +0545] "GET /resources/assets/css/animate.min.css HTTP/1.1" 304 - http-bio-8083-exec-2 16
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:37:02 +0545] "GET /resources/assets/css/pe-icon-7-stroke.css HTTP/1.1" 304 - http-bio-8083-exec-5 16
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:37:02 +0545] "GET /resources/assets/css/light-bootstrap-dashboard.css?v=1.4.0 HTTP/1.1" 304 - http-bio-8083-exec-3 16
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:37:02 +0545] "GET /resources/assets/css/bootstrap.min.css HTTP/1.1" 304 - http-bio-8083-exec-7 21
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:37:02 +0545] "GET /resources/assets/css/demo.css HTTP/1.1" 304 - http-bio-8083-exec-4 31
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:37:02 +0545] "GET /resources/assets/js/jquery.3.2.1.min.js HTTP/1.1" 304 - http-bio-8083-exec-4 2
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:37:02 +0545] "GET /resources/assets/js/bootstrap-notify.js HTTP/1.1" 304 - http-bio-8083-exec-9 1
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:37:02 +0545] "GET /resources/assets/js/light-bootstrap-dashboard.js?v=1.4.0 HTTP/1.1" 304 - http-bio-8083-exec-8 2
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:37:02 +0545] "GET /resources/assets/js/bootstrap.min.js HTTP/1.1" 304 - http-bio-8083-exec-7 6
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:37:02 +0545] "GET /resources/assets/js/demo.js HTTP/1.1" 304 - http-bio-8083-exec-6 4
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:37:02 +0545] "GET /resources/assets/js/chartist.min.js HTTP/1.1" 304 - http-bio-8083-exec-10 10
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:37:03 +0545] "GET /resources/assets/fonts/Pe-icon-7-stroke.woff?d7yf1v HTTP/1.1" 304 - http-bio-8083-exec-5 16
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:37:03 +0545] "GET /resources/assets/img/sidebar-5.jpg HTTP/1.1" 304 - http-bio-8083-exec-5 2
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:56:50 +0545] "GET / HTTP/1.1" 200 5837 http-bio-8083-exec-1 1309
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:56:52 +0545] "GET /resources/img/doctor.jpg HTTP/1.1" 200 96414 http-bio-8083-exec-7 24
+0:0:0:0:0:0:0:1 - - [13/Mar/2018:11:56:54 +0545] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8083-exec-8 4
